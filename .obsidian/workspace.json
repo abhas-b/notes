@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c89b0df411ba1ff",
+        "id": "e632204176fc2a31",
         "type": "tabs",
         "children": [
           {
-            "id": "28212fac5d72a688",
+            "id": "e020e673f2656baf",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -162,8 +162,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "28212fac5d72a688",
+  "active": "e020e673f2656baf",
   "lastOpenFiles": [
+    "GenAI/LangGraph.md",
+    "GenAI/Transformers/Transformers.md",
+    "GenAI/Transformers/Reading List.md",
+    "GenAI/Transformers/Jay Alammar blogs.md",
+    "GenAI/Transformers/Attention and Transformers.md",
+    "GenAI/Langchain.md",
+    "GenAI/Transformers",
+    "GenAI/GenAI.md",
+    "GenAI/LLM Basics.md",
+    "GenAI",
     "Data Engineering/slash.md",
     "Data Engineering/Untitled.md",
     "Data Engineering/Spark ETL with Glue.md",
@@ -182,14 +192,6 @@
     "Data Engineering/Kinesis.md",
     "Data Engineering/Lambda Udemy.md",
     "Data Engineering/Ingestion.md",
-    "Data Engineering/Governance, Security and Cataloging.md",
-    "Data Engineering/Glue.md",
-    "Data Engineering/Glue Data Catalog.md",
-    "Data Engineering/Glue Crawlers.md",
-    "Data Engineering/Glue - Udemy Course.md",
-    "Data Engineering/Glue - Johnny Chivers.md",
-    "Data Engineering/Firehose.md",
-    "Data Engineering/Frequent Permissions.md",
     "Data Engineering"
   ]
 }
