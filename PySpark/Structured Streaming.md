@@ -1,5 +1,0 @@
-#spark [[Data Engineering]]
-
-[[Kinesis]]
-
-

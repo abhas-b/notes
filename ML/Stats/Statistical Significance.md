@@ -1,2 +1,0 @@
-#stats  [[Stats basics]]
-
