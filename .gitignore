@@ -1,0 +1,12 @@
+    # Ignore compiled binaries
+    *.exe
+    *.dll
+
+    # Ignore log files
+    *.log
+
+    # Ignore node_modules directory
+    node_modules/
+
+    # Ignore environment variables file
+    .env
