@@ -164,7 +164,32 @@
   },
   "active": "28212fac5d72a688",
   "lastOpenFiles": [
+    "Data Engineering/slash.md",
+    "Data Engineering/Untitled.md",
+    "Data Engineering/Spark ETL with Glue.md",
+    "Data Engineering/Serverless Computing.md",
+    "Data Engineering/Time Travel.md",
+    "Data Engineering/Schema evolution.md",
+    "Data Engineering/Redshift Spectrum.md",
+    "Data Engineering/Redshift.md",
+    "Data Engineering/Record level updates.md",
+    "Data Engineering/OpenCSVSerDe.md",
+    "Data Engineering/Pipelines.md",
+    "Data Engineering/Monitoring.md",
+    "Data Engineering/Modern Data Approaches - Open Table Formats, Data Mesh, DataOps.md",
+    "Data Engineering/Manual Catalog Maintenance.md",
+    "Data Engineering/Lambda example CSV to parquet.md",
+    "Data Engineering/Kinesis.md",
+    "Data Engineering/Lambda Udemy.md",
     "Data Engineering/Ingestion.md",
-    "Airflow.md"
+    "Data Engineering/Governance, Security and Cataloging.md",
+    "Data Engineering/Glue.md",
+    "Data Engineering/Glue Data Catalog.md",
+    "Data Engineering/Glue Crawlers.md",
+    "Data Engineering/Glue - Udemy Course.md",
+    "Data Engineering/Glue - Johnny Chivers.md",
+    "Data Engineering/Firehose.md",
+    "Data Engineering/Frequent Permissions.md",
+    "Data Engineering"
   ]
 }
